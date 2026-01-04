@@ -1,4 +1,4 @@
-# 🎓 CourseCraft - LMS Platform
+# 🎓 CourseCraft
 
 **CourseCraft** is a professional, full-stack Learning Management System (LMS) designed for the modern web. Built with the **MERN stack**, it features a dual-interface system that provides tailored experiences for both Instructors and Students.
 
